@@ -1,0 +1,11 @@
+LOGO INSTRUCTIES
+
+Om het GHX logo toe te voegen aan de applicatie:
+
+1. Sla je GHX logo op als 'ghx_logo.png' in deze map
+2. Start de applicatie opnieuw op met het startscript
+
+Het logo zal automatisch worden geladen en getoond in de header van de app.
+
+Voor de beste weergave, gebruik een PNG bestand met een transparante achtergrond 
+en een hoogte van ongeveer 150 pixels.
